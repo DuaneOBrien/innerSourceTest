@@ -11,29 +11,29 @@ work of the contributor above and beyond single contributions.
 
 ## Problem
 
-  - Project maintainers want to find ways to scale their ability to support a
+- Project maintainers want to find ways to scale their ability to support a
   project
-  - Project maintainers want to find ways to lengthen the value delivered by a
+- Project maintainers want to find ways to lengthen the value delivered by a
   project
-  - Project maintainers want to visibly reward frequent contributors and
+- Project maintainers want to visibly reward frequent contributors and
   empower them to amplify their value contribution.
-  - Lack of language for recognizing contributions across teams within an
+- Lack of language for recognizing contributions across teams within an
   organization
 
 ## Context
 
-  - You are the maintainer of a cross-team library, service, or shared resource
-  - You receive regular contributions
-  - There are motivated contributors looking to build expertise through
-    inner-sourced projects
+- You are the maintainer of a cross-team library, service, or shared resource
+- You receive regular contributions
+- There are motivated contributors looking to build expertise through
+  inner-sourced projects
 
 ## Forces
 
-  - Over the lifecycle of a project the focus of the maintainers may shift away
+- Over the lifecycle of a project the focus of the maintainers may shift away
   to accommodate changing business priorities
-  - Contributors seek visible artifacts of their contributions demonstrating
+- Contributors seek visible artifacts of their contributions demonstrating
   value
-  - Maintaining a project of reasonable complexity is taxing for a small team
+- Maintaining a project of reasonable complexity is taxing for a small team
 
 ## Solution
 
@@ -47,11 +47,11 @@ members and outlines the role for future candidates.
 Below we've provided a few guidelines for what Trusted Committers can be
 invited to do:
 
-* If a candidate participates often in community channels (e.g. Slack, JIRA
+- If a candidate participates often in community channels (e.g. Slack, JIRA
 issue triaging, etc.) then becoming a Trusted Committer formalizes their role
 in community support.
 
-* A good candidate for a Trusted Committer, is someone who frequently submits
+- A good candidate for a Trusted Committer, is someone who frequently submits
 code, documentation, or other repository changes.  Start by including this
 person on pull requests. If they are actively engaging in pull requests,
 consider approaching them about opportunities for further collaboration on the
@@ -109,9 +109,9 @@ effort][praise] in making the project successful and set a new date to check-in.
 There comes a time when removal of a Trusted Committer is necessary, for
 example:
 
-* No longer willing to take part
-* No longer able to perform their duties
-* No longer employed by the company
+- No longer willing to take part
+- No longer able to perform their duties
+- No longer employed by the company
 
 In each of the above cases a plan for removing access to project resources
 should be agreed upon by both parties. This includes transitioning their entry in

@@ -16,14 +16,14 @@ A pattern in this area makes it easy to do and ensures that the message comes ac
 
 ## Context
 
-* You are the [Trusted Committer](./trusted-committer.md) or maintainer on an inner source project.
-* You value the community of contributors and want to maintain and grow it.
+- You are the [Trusted Committer](./trusted-committer.md) or maintainer on an inner source project.
+- You value the community of contributors and want to maintain and grow it.
 
 ## Forces
 
-* You are busy, which makes it easy to forget some of the soft touches like praise and thanks.
-* You may not be someone that is comfortable in social situations or good with words.
-* Peer recognition is very important to job satisfaction and career development.
+- You are busy, which makes it easy to forget some of the soft touches like praise and thanks.
+- You may not be someone that is comfortable in social situations or good with words.
+- Peer recognition is very important to job satisfaction and career development.
 
 ## Solutions
 
@@ -35,15 +35,15 @@ For non-trivial contributions (all code contributions and also significant time 
 
 1. Call out the person by name in any chat location (e.g. _Slack_) where you organize your project activity.  Let everyone know what they did and thank them publicly.  Example:
 
-> Everyone @here give a high-five to @andrew.clegg for updating the _rcs-viewer_ to the latest version of the _hebo-client_ (https://github.com/rcs/rcs-viewer/pull/81).
-Thanks for helping keep this library up-to-date, Andy!
+    > Everyone @here give a high-five to @andrew.clegg for updating the _rcs-viewer_ to the latest version of the _hebo-client_ (https://github.com/rcs/rcs-viewer/pull/81).
+    > Thanks for helping keep this library up-to-date, Andy!
 
 2. Send an email to them and their manager (cc'd) privately thanking them for the contribution.
 For code contributions often-times you can just forward the merge notification mail.  Example:
 
-> Hi, Andy, I want to thank you again for making this update.
-It may have been a small amount of time, but it's attention like this from each person that make the RCS project work for all of us.
-Thanks for solving your own problem in a way that also makes the _rcs-viewer_ better for everyone.
+    > Hi, Andy, I want to thank you again for making this update.
+    > It may have been a small amount of time, but it's attention like this from each person that make the RCS project work for all of us.
+    > Thanks for solving your own problem in a way that also makes the _rcs-viewer_ better for everyone.
 
 ## Resulting Context
 
@@ -59,22 +59,22 @@ Overdoing it may feel insincere and mechanical and defeat your purpose in reachi
 
 ## Related Patterns
 
-* _Just Say Thanks_ (from the book [_Fearless Change_](https://fearlesschangepatterns.com/))
+- _Just Say Thanks_ (from the book [_Fearless Change_](https://fearlesschangepatterns.com/))
 
 ## Known Instances
 
-* Nike (multiple projects)
+- Nike (multiple projects)
 
 ## Status
 
-* Structured
-* Old status: Proven
+- Structured
+- Old status: Proven
 
 ## Author(s)
 
-* Russ Rutledge
+- Russ Rutledge
 
 ## Acknowledgements
 
-* [Todd Lisonbee](https://github.com/tlisonbee) for encouraging to "keep it real".
-* [Isabel Drost-Fromm](https://github.com/MaineC) for [this extra explanation](https://youtu.be/h3MPewsk5PU?t=357) of a "qualified" thank you.
+- [Todd Lisonbee](https://github.com/tlisonbee) for encouraging to "keep it real".
+- [Isabel Drost-Fromm](https://github.com/MaineC) for [this extra explanation](https://youtu.be/h3MPewsk5PU?t=357) of a "qualified" thank you.
