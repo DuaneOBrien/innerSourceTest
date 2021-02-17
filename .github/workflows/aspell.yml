@@ -1,0 +1,20 @@
+name: Spell Check
+
+on:
+  push:
+    branches:
+      - "master"
+  pull_request:
+
+jobs:
+  spell-check:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    # - name: spell-check
+    #   uses: reitermarkus/aspell@master
+    #   with:
+    #     files: patterns/2-structured/project-setup/*.md
+    #     args: --lang=en_GB --mode=markdown
+    - name: Spellcheck
+      uses: rojopolis/spellcheck-github-actions@0.5.0
